@@ -2,7 +2,7 @@
 
 This Python Beginner's workshop will be running from **4.00pm to - 8.00 pm on Tuesday the 19th and Thursday the 21st of March.** at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
 
-**Note** There is construction going on in the area, and the only way to access the ERC is from the Southwest corner of the building, across from the engineering workshop
+**Note** There is construction going on in the area, and the only way to access the ERC is from the Southwest corner of the building, across from the engineering workshop there is a blue pathway that leads to the entrance, and you will need to take the elevator or stairs to level 3.
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
