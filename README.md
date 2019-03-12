@@ -1,6 +1,6 @@
-# Introduction to Python, March 2018 Edition
+# Introduction to Python, March 2019
 
-This Python Beginner's workshop will be running from 9.30am - 5pm on Monday the 26th of March, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
+This Python Beginner's workshop will be running from 4.00pm to - 8.00 pm on Tuesday the 19th and Thursday the 21st of March. at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
